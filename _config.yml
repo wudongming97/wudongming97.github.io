@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jianbing Shen"
+title                    : "Dongming Wu"
 description              : ""
-repository               : "shenjianbing/homepage"
+repository               : "wudongming97/homepage"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,25 +21,19 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jianbing Shen"
-  title            : "Professor<br/>
-                      Vision and Self-Driving Lab"
+  name             : "Dongming Wu"
+  title            : "PhD Student"
   lab              : ""
-  avatar           : "images/photo.png"
-  university       : "University of Macau"
-  employer         :  "State Key Lab of IOTSC <br/>
-                       Computer and Information Science"
+  avatar           : "images/photo.jpg"
+  university       : "Beijing Institute of Technology"
+  employer         : "Department of Computer Science"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_Q3NTToAAAAJ"
-  email            : "shenjianbingcg@gmail.com"
-  extra_email      : "jianbingshen@um.edu.mo"
-  area             : "Computer Vision  <br/>
-                      Autonomous Driving <br/>
-                      Smart City <br/>
-                      Metaverse <br/>
-                      Intelligent Systems"
-  researchgate     :  "https://dblp.org/pid/38/5435.html"
-  location         : "Macau"
+  googlescholar    : "https://scholar.google.com/citations?user=ejFCAq0AAAAJ&hl=zh-CN"
+  email            : "wudongming97@gmail.com"
+  extra_email      : "wudongming@bit.edu.cn"
+  area             : "Computer Vision"
+  researchgate     : ""
+  location         : "Beijing"
   uri              :
   bitbucket        :
   codepen          :
