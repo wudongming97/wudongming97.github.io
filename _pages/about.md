@@ -19,7 +19,7 @@ redirect_from:
 
 <strong>Dongming Wu</strong> is currently a PhD student at Department of Computer Science, Beijing Institute of Technology, advised by Prof. Jianbing Shen. He is also a research intern at Foundation model group at MEGVII Technology, working closely with Tiancai Wang and Xiangyu Zhang. He recevied his Bachelor's degree from the Class of Xu, Beijing Institute of Technology, in 2019. He was a visiting student at Inception Institute of Artificial Intelligence, Abu Dhabi, United Arab Emirates, working closely with Xingping Dong and Prof. Ling Shao. 
 
-<a href='https://scholar.google.com/citations?user=_Q3NTToAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=ejFCAq0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 
