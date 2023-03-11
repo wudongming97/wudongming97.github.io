@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 From 2019 to present, I am a PhD student in Department of Computer Science, Beijing Institute of Technology, advised by <a href="https://shenjianbing.github.io/">Prof. Jianbing Shen</a>. 
 
-From 2022 to present, I am a research intern at Foundation model group in MEGVII Technology, working closely with <a href="https://sites.google.com/view/xingpingdong?pli=1">Tiancai Wang</a> and Xiangyu Zhang. 
+From 2022 to present, I am a research intern at Foundation model group in MEGVII Technology, working closely with <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and Xiangyu Zhang. 
 
 In 2021-2022, I was a visiting student at Inception Institute of Artificial Intelligence, Abu Dhabi, United Arab Emirates, working closely with <a href="https://sites.google.com/view/xingpingdong?pli=1">Xingping Dong</a>  and Prof. Ling Shao.
 
@@ -34,6 +34,7 @@ In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute
 <span class='anchor' id='-news'></span>
 
 # News
+
 - 🎉🎉🎉 One paper (Refering Multi-Object Tracking) is accepted by CVPR2023.
 
 
