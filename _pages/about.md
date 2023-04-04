@@ -22,7 +22,7 @@ From 2019 to present, I am a PhD student in Department of Computer Science, Beij
 
 From 2022 to present, I am a research intern at Foundation model group in MEGVII Technology, working with <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and Xiangyu Zhang. 
 
-In 2021-2022, I was a visiting student at Inception Institute of Artificial Intelligence, UAE, working with <a href="https://sites.google.com/view/xingpingdong?pli=1">Xingping Dong</a>  and Prof. Ling Shao.
+In 2021-2022, I was a research intern at Inception Institute of Artificial Intelligence, UAE, working with <a href="https://sites.google.com/view/xingpingdong?pli=1">Xingping Dong</a>  and Prof. Ling Shao.
 
 In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
 
@@ -56,6 +56,7 @@ Dongming Wu\*, Wencheng Han\*, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianb
 # Service
 
 Reviewer for CVPR'2023
+
 Reviewer for TIP, TNNLS, TMM, etc
 
 
