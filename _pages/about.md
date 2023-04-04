@@ -48,15 +48,15 @@ Dongming Wu\*, Wencheng Han\*, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianb
 
 - RMOT is a new referring understanding task that can detect and track an arbitrary number of objects following human instruction. We propose the first RMOT benckmark Refer-KITTI, and a baseline model TransRMOT.
 
+
+</div>
+</div>
+
 <span class='anchor' id='-service'></span>
 # Service
 
 Reviewer for CVPR'2023
 Reviewer for TIP, TNNLS, TMM, etc
-
-
-</div>
-</div>
 
 
 
