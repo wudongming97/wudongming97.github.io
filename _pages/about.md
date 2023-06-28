@@ -48,6 +48,19 @@ Dongming Wu\*, Wencheng Han\*, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianb
 
 - RMOT is a new referring understanding task that can detect and track an arbitrary number of objects following human instruction. We propose the first RMOT benckmark Refer-KITTI, and a baseline model TransRMOT.
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/MSLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) \\
+Dongming Wu, Xingping Dong, Ling Shao, Jianbing Shen
+
+[**Code**]() <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+
+- We propose a new framework for RVOS based on multi-level representation learning. It precludes the limitation of single frame-level visual modeling by a more structural video representation, promoting accurate vision-language semantic alignment.
 
 </div>
 </div>
