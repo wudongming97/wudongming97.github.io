@@ -30,7 +30,7 @@ In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute
 <span class='anchor' id='-news'></span>
 
 # News
-- 2023.06: We ranked the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge. [Solution](https://arxiv.org/pdf/2306.09590.pdf) is released.
+- 2023.06: We rank the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge. [Solution](https://arxiv.org/pdf/2306.09590.pdf) is released.
 - 2023.03: One paper (Refering Multi-Object Tracking) is accepted by CVPR2023.
 
 
@@ -64,6 +64,12 @@ Dongming Wu, Xingping Dong, Ling Shao, Jianbing Shen
 
 </div>
 </div>
+
+<span class='anchor' id='-honors'></span>
+# Honors
+
+* We rank the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge ($15,000).
+* I win Huaruishiji(华瑞世纪) Scholarship.
 
 <span class='anchor' id='-service'></span>
 # Service
