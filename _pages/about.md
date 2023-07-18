@@ -22,7 +22,7 @@ From 2019 to present, I am a PhD student in Department of Computer Science, Beij
 
 From 2022 to present, I am a research intern at Foundation model group in MEGVII Technology, working with <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and Xiangyu Zhang. 
 
-In 2021-2022, I was a research intern at Inception Institute of Artificial Intelligence, UAE, working with <a href="https://sites.google.com/view/xingpingdong?pli=1">Xingping Dong</a>  and Prof. Ling Shao.
+In 2021-2022, I was a research intern at Inception Institute of Artificial Intelligence, UAE, working with <a href="https://xingpingdong.github.io/">Xingping Dong</a>  and Prof. Ling Shao.
 
 In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
 
@@ -37,6 +37,21 @@ In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute
 
 <span class='anchor' id='-publications'></span>
 # Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/onlinerefer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2303.03366) \\
+Dongming Wu, Tiancai Wang, Yuang Zhang, Xiangyu Zhang, Jianbing Shen
+
+[**Code**](https://github.com/wudongming97/OnlineRefer) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+
+- OnlineRefer is the first to challenge the widespread belief that only offline models can deal well with RVOS and makes online RVOS great again.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/rmot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
