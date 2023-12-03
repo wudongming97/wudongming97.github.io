@@ -32,6 +32,7 @@ My current research interests are in the areas of (1) **vision-language learning
 <span class='anchor' id='-news'></span>
 
 # News
+- 2023.10: I'm awarded National Scholarship!
 - 2023.07: One paper (OnlineRefer) is accepted by ICCV2023.
 - 2023.06: We rank the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge. [Solution](https://arxiv.org/pdf/2306.09590.pdf) is released.
 - 2023.03: One paper (Refering Multi-Object Tracking) is accepted by CVPR2023.
@@ -43,29 +44,59 @@ My current research interests are in the areas of (1) **vision-language learning
 
 ## Preprint Papers:
 
+- **Language prompt for autonomous driving**\\
+Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen\\
+|2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|
+
+- **TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning**\\
+Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen\\
+|2023|[Paper](https://arxiv.org/pdf/2310.06753.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
+
+
 - **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**\\
 Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang\\
-|2023|[Paper](https://arxiv.org/pdf/2306.09590.pdf)|[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:coa7m5TvOfYJ:scholar.google.com/&output=citation&scisdr=ClHG1n4rEMHEjoN8Jb0:AFWwaeYAAAAAZSV6Pb126XoUNpo2UA5TKQ4YipQ&scisig=AFWwaeYAAAAAZSV6PRvdtFj29oHTJFKOcuYHcNo&scisf=4&ct=citation&cd=-1&hl=zh-CN)|
+|2023|[Paper](https://arxiv.org/pdf/2306.09590.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
 
 ## Conference Papers
 
-- **OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation** (**ICCV2023**) \\
-Dongming Wu, Tiancai Wang, Yuang Zhang, Xiangyu Zhang, Jianbing Shen \\
-|2023|[Paper](https://arxiv.org/abs/2307.09356)|[Code](https://github.com/wudongming97/OnlineRefer)|[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:V5DcCDQF9C8J:scholar.google.com/&output=citation&scisdr=ClHG1n4rEMHEjoN8HA0:AFWwaeYAAAAAZSV6BA3xZFwyq8T9fevmAW_kmV0&scisig=AFWwaeYAAAAAZSV6BHRIaG5UquCJ6e54GBZ-ilY&scisf=4&ct=citation&cd=-1&hl=zh-CN)| \\
-<strong style="color:gray"> * OnlineRefer is the first to challenge the widespread belief that only offline models can deal well with RVOS and makes online RVOS great again.</strong>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/onlinerefer.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**\\
+|**ICCV 2023**|[Paper](https://arxiv.org/abs/2307.09356)|[Code](https://github.com/wudongming97/OnlineRefer)|
+
+Dongming Wu, Tiancai Wang, Yuang Zhang, Xiangyu Zhang, Jianbing Shen
+
+- <strong style="color:green"> OnlineRefer is the first to challenge the widespread belief that only offline models can deal well with RVOS and makes online RVOS great again.</strong>
+</div>
+</div>
 
 
 
-- **Referring Multi-Object Tracking** (**CVPR2023**)\\
-Dongming Wu, Wencheng Han, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianbing Shen \\
-|2023|[Paper](https://arxiv.org/abs/2303.03366)|[Code](https://github.com/wudongming97/RMOT)|[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:UgQt3OtQyF0J:scholar.google.com/&output=citation&scisdr=ClHG1n4rEMHEjoN_w24:AFWwaeYAAAAAZSV5227zvLHOvW88bu9k1gZEgjk&scisig=AFWwaeYAAAAAZSV52xARJ0n2pZT9sNVKW04-HVY&scisf=4&ct=citation&cd=-1&hl=zh-CN)|\\
-<strong style="color:gray"> * RMOT is a new referring understanding task that can detect and track an arbitrary number of objects following human instruction. We propose the first RMOT benckmark Refer-KITTI, and a baseline model TransRMOT.</strong>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/rmot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Referring Multi-Object Tracking** \\
+|**CVPR 2023**|[Paper](https://arxiv.org/abs/2303.03366)|[Code](https://github.com/wudongming97/RMOT)|
+
+Dongming Wu, Wencheng Han, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianbing Shen
+
+- <strong style="color:green">RMOT is a new referring understanding task that can detect and track an arbitrary number of objects following human instruction. We propose the first RMOT benckmark Refer-KITTI, and a baseline model TransRMOT.</strong>
+</div>
+</div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/msla.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation** (**CVPR2022**) \\
-Dongming Wu, Xingping Dong, Ling Shao, Jianbing Shen \\
-|2022|[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)|[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:E3jkxiAMN2YJ:scholar.google.com/&output=citation&scisdr=ClHG1n4rEMHEjoN_UqI:AFWwaeYAAAAAZSV5SqKEtMh7qWWhqFy1KvPuBv0&scisig=AFWwaeYAAAAAZSV5SrIBaZvq_tQDUlRELAyU514&scisf=4&ct=citation&cd=-1&hl=zh-CN)|
+**Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation** \\
+|**CVPR 2022**|[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)|
+
+Dongming Wu, Xingping Dong, Ling Shao, Jianbing Shen 
+
+</div>
+</div>
+
 
 
 ## Journal Papers:
@@ -83,8 +114,9 @@ Dongming Wu, Xingping Dong, Jianbing Shen, Steven CH Hoi \\
 <span class='anchor' id='-honors'></span>
 # Honors
 
-* We rank the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge ($15,000).
-* I win HuaRuiShiJi(华瑞世纪) Scholarship.
+* National Scholarship, Ministry of Education China.
+* The 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei.
+* HuaRuiShiJi(华瑞世纪) Scholarship, Beijing Institute of Technology.
 
 <span class='anchor' id='-service'></span>
 # Service
