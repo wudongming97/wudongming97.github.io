@@ -44,6 +44,10 @@ My current research interests are in the areas of (1) **vision-language learning
 
 ## Preprint Papers:
 
+- **Merlin:Empowering Multimodal LLMs with Foresight Minds**\\
+En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang, Wenbing Tao\\
+|2023|[Paper](https://arxiv.org/abs/2312.00589)|
+
 - **Language prompt for autonomous driving**\\
 Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen\\
 |2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|
