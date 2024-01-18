@@ -32,6 +32,7 @@ My current research interests are in the areas of (1) **vision-language learning
 <span class='anchor' id='-news'></span>
 
 # News
+- 2024.01: One paper (TopoMLP) is accepted by ICLR2024.
 - 2023.10: I'm awarded National Scholarship!
 - 2023.07: One paper (OnlineRefer) is accepted by ICCV2023.
 - 2023.06: We rank the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge. [Solution](https://arxiv.org/pdf/2306.09590.pdf) is released.
@@ -52,16 +53,24 @@ En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei,
 Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen\\
 |2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|
 
-- **TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning**\\
-Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen\\
-|2023|[Paper](https://arxiv.org/pdf/2310.06753.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
-
 
 - **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**\\
 Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang\\
 |2023|[Paper](https://arxiv.org/pdf/2306.09590.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
 
 ## Conference Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/topomlp.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning**\\
+|**ICLR 2024**|[Paper](https://arxiv.org/pdf/2310.06753.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
+
+Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen
+
+- <strong style="color:green"> TopoMLP is the 1st solution for 1st OpenLane Topology in Autonomous Driving Challenge. It suggests a first-detect-then-reason philosophy for better topology prediction.</strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/onlinerefer.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
