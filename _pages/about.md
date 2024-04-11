@@ -26,7 +26,7 @@ In 2021-2022, I was a research intern at Inception Institute of Artificial Intel
 
 In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
 
-My current research interests are in the areas of (1) **vision-language learning** and (2) **autonomous driving**.
+My current research interests are in the areas of (1) **Vision-language learning**, (2) **Multi-modal LLM** and (3) **Autonomous driving**.
 
 
 <span class='anchor' id='-news'></span>
