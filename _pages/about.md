@@ -133,10 +133,19 @@ Dongming Wu, Xingping Dong, Jianbing Shen, Steven CH Hoi \\
 
 <span class='anchor' id='-service'></span>
 # Service
+Invited Reviewer for conferences:
+* CVPR 2023,2024
+* ICCV 2023
+* ECCV 2024
 
-Reviewer for CVPR'2023, ICCV'2023
-
-Reviewer for TIP, TNNLS, TMM, PR, etc
+Invited Reviewer for journals:
+* IEEE Transactions on Image Processing (TIP)
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Multimedia (TMM)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* IEEE Transactions on Intelligent Vehicles (TIV)
+* Pattern Recognition (PR)
+* Neurocomputing
 
 
 
