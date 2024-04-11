@@ -54,9 +54,7 @@ Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Sh
 |2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|
 
 
-- **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**\\
-Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang\\
-|2023|[Paper](https://arxiv.org/pdf/2306.09590.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
+
 
 ## Conference Papers
 
@@ -121,6 +119,13 @@ Dongming Wu, Mang Ye, Gaojie Lin, Xin Gao, Jianbing Shen \\
 - **Reducing estimation bias via triplet-average deep deterministic policy gradient**(**TNNLS**) \\
 Dongming Wu, Xingping Dong, Jianbing Shen, Steven CH Hoi \\
 |2020|[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6923&context=sis_research)|
+
+
+## Technical Report:
+
+- **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**\\
+Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang\\
+|2023|[Paper](https://arxiv.org/pdf/2306.09590.pdf)|[Code](https://github.com/wudongming97/TopoMLP)|
 
 
 
