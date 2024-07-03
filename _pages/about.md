@@ -26,12 +26,15 @@ In 2021-2022, I was a research intern at Inception Institute of Artificial Intel
 
 In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
 
-My current research interests are in the areas of (1) **Vision-language learning**, (2) **Multi-modal LLM** and (3) **Autonomous driving**.
+My current research interests are in the areas of (1) **Vision-language learning**, (2) **Multi-modal LLM** and (3) **Autonomous driving** and (4) **Embodied AI**.
 
 
 <span class='anchor' id='-news'></span>
 
 # News
+- 2024.07: One paper (Merlin) is accepted by ECCV2024.
+- 2024.05: I'm awarded Excellent Doctoral Thesis Seedling Fund (优秀博士论文育苗基金).
+- 2024.04: I get financial assistance to attend ICLR. Thank you, ICLR!
 - 2024.01: One paper (TopoMLP) is accepted by ICLR2024.
 - 2023.10: I'm awarded National Scholarship!
 - 2023.07: One paper (OnlineRefer) is accepted by ICCV2023.
@@ -45,18 +48,35 @@ My current research interests are in the areas of (1) **Vision-language learning
 
 ## Preprint Papers:
 
-- **Merlin:Empowering Multimodal LLMs with Foresight Minds**\\
-En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang, Wenbing Tao\\
-|2023|[Paper](https://arxiv.org/abs/2312.00589)|
+- **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**\\
+Yifan Bai\*, Dongming Wu\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (*Equal Contributions) \\
+|2024|[Paper](https://arxiv.org/pdf/2405.18361)|
+
+- **Bootstrapping Referring Multi-Object Tracking**\\
+Yani Zhang, Dongming Wu, Wencheng Han, Xingping Dong \\
+|2024|[Paper](https://arxiv.org/pdf/2406.05039)|
 
 - **Language prompt for autonomous driving**\\
 Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen\\
-|2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|
+|2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|[Code](https://github.com/wudongming97/Prompt4Driving)|
 
 
 
 
 ## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/merlin.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Merlin:Empowering Multimodal LLMs with Foresight Minds**\\
+|**ECCV 2024**|[Paper](https://arxiv.org/abs/2312.00589)|[Code](https://github.com/Ahnsun/merlin)|
+
+En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang, Wenbing Tao
+
+- <strong style="color:green"> Merlin is a groundbreaking model capable of generating natural language responses that are intricately linked with object trajectories of multiple images.</strong>
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/topomlp.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,6 +89,8 @@ Dongming Wu, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen
 - <strong style="color:green"> TopoMLP is the 1st solution for 1st OpenLane Topology in Autonomous Driving Challenge. It suggests a first-detect-then-reason philosophy for better topology prediction.</strong>
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/onlinerefer.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,9 +154,10 @@ Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shua
 <span class='anchor' id='-honors'></span>
 # Honors
 
+* Excellent Doctoral Thesis Seedling Fund(优秀博士论文育苗基金), Beijing Institute of Technology.
 * National Scholarship, Ministry of Education China.
 * The 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei.
-* HuaRuiShiJi(华瑞世纪) Scholarship, Beijing Institute of Technology.
+* ChinaCentury(华瑞世纪) Scholarship, Beijing Institute of Technology.
 
 <span class='anchor' id='-service'></span>
 # Service
