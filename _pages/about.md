@@ -18,20 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-From 2019 to present, I am a PhD student in Department of Computer Science, Beijing Institute of Technology, advised by <a href="https://shenjianbing.github.io/">Prof. Jianbing Shen</a>. 
+From 2019.09 to present, I am a PhD student in Department of Computer Science, Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en">Prof. Jianbing Shen</a>. 
 
-From 2022 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao">Xiangyu Zhang</a>. 
+From 2024.09 to present, I am a visiting student at Mohamed bin Zayed University of Artificial Intelligence, supervised by <a href="https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/">Prof. Rao Muhammad Anwer</a> and <a href="https://sites.google.com/view/fahadkhans">Prof. Fahad Shahbaz Khan</a>. 
 
-In 2021-2022, I was a research intern at Inception Institute of Artificial Intelligence, UAE, supervised by <a href="https://xingpingdong.github.io/">Xingping Dong</a> and <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao">Prof. Ling Shao</a>.
+From 2022.06 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao">Xiangyu Zhang</a>. 
 
-In 2019, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
+In 2021.05-2022.05, I was a research intern at Inception Institute of Artificial Intelligence, UAE, supervised by <a href="https://xingpingdong.github.io/">Xingping Dong</a> and <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao">Prof. Ling Shao</a>.
 
-My current research interests are in the areas of (1) **Vision-language learning**, (2) **Multi-modal LLM** and (3) **Autonomous driving** and (4) **Embodied AI**.
+In 2019.06, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
+
+My current research interests are in the areas of (1) **Vision-language learning**, (2) **Multi-modal LLM** and (3) **Embodied Agent**. My ultimate goal is to build a human-like agent for perceiving real-life environments and performing decision-making.
 
 
 <span class='anchor' id='-news'></span>
 
 # News
+- 2024.12: One paper (NuPrompt) is accepted by AAAI2025.
 - 2024.07: One paper (Merlin) is accepted by ECCV2024.
 - 2024.05: I'm awarded Excellent Doctoral Thesis Seedling Fund (优秀博士论文育苗基金).
 - 2024.04: I get financial assistance to attend ICLR. Thank you, ICLR!
@@ -48,6 +51,23 @@ My current research interests are in the areas of (1) **Vision-language learning
 
 ## Preprint Papers:
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/ragnet.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping** \\
+|**In Submission**|
+
+Dongming Wu, Yanping Fu, Saike Huang, Yingfei Liu, Fan Jia, Nian Liu, Feng Dai, Tiancai Wang, Rao Muhammad Anwer, Fahad Shahbaz Khan, Jianbing Shen
+
+- <strong style="color:green"> We present a large-scale reasoning-based affordance segmentation benchmark RAGNet and introduce a comprehensive affordance-based grasping framework AffordanceNet.</strong>
+</div>
+</div>
+
+- **DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**\\
+Tianyi Yan, Dongming Wu, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen \\
+|2024|[Paper](https://arxiv.org/abs/2411.11252)|
+
+
 - **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**\\
 Yifan Bai\*, Dongming Wu\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (*Equal Contributions) \\
 |2024|[Paper](https://arxiv.org/pdf/2405.18361)|
@@ -56,14 +76,21 @@ Yifan Bai\*, Dongming Wu\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yuch
 Yani Zhang, Dongming Wu, Wencheng Han, Xingping Dong \\
 |2024|[Paper](https://arxiv.org/pdf/2406.05039)|[Code](https://github.com/zyn213/TempRMOT)|
 
-- **Language prompt for autonomous driving**\\
-Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen\\
-|2023|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|[Code](https://github.com/wudongming97/Prompt4Driving)|
-
-
-
 
 ## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/nuprompt.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Language prompt for autonomous driving** \\
+|**AAAI 2025**|[Paper](https://arxiv.org/pdf/2309.04379.pdf)|[Code](https://github.com/wudongming97/Prompt4Driving)|
+
+Dongming Wu, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen
+
+- <strong style="color:green"> NuPrompt is the first dataset specializing in multiple 3D objects of interest from video domain for autonomous driving.</strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/merlin.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -162,11 +189,14 @@ Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shua
 <span class='anchor' id='-service'></span>
 # Service
 Invited Reviewer for conferences:
-* CVPR 2023,2024
+* CVPR 2023,2024,2025
 * ICCV 2023
 * ECCV 2024
+* ICLR 2025
+* AAAI 2025
 
 Invited Reviewer for journals:
+* International Journal of Computer Vision (IJCV) 
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 * IEEE Transactions on Multimedia (TMM)
