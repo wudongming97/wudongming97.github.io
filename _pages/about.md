@@ -20,9 +20,9 @@ redirect_from:
 # About Me
 From 2019.09 to present, I am a PhD student in Department of Computer Science, Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en">Prof. Jianbing Shen</a>. 
 
-From 2024.09 to present, I am a visiting student at Mohamed bin Zayed University of Artificial Intelligence, supervised by <a href="https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/">Prof. Rao Muhammad Anwer</a> and <a href="https://sites.google.com/view/fahadkhans">Prof. Fahad Shahbaz Khan</a>. 
-
 From 2022.06 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao">Xiangyu Zhang</a>. 
+
+From 2024.09 to 2025.01, I am a visiting student at Mohamed bin Zayed University of Artificial Intelligence, supervised by <a href="https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/">Prof. Rao Muhammad Anwer</a> and <a href="https://sites.google.com/view/fahadkhans">Prof. Fahad Shahbaz Khan</a>. 
 
 In 2021.05-2022.05, I was a research intern at Inception Institute of Artificial Intelligence, UAE, supervised by <a href="https://xingpingdong.github.io/">Xingping Dong</a> and <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao">Prof. Ling Shao</a>.
 
@@ -34,16 +34,12 @@ My current research interests are in the areas of (1) **Vision-language learning
 <span class='anchor' id='-news'></span>
 
 # News
+- 2025.02: One paper (DrivingSphere) is accepted by CVPR2025.
 - 2024.12: One paper (NuPrompt) is accepted by AAAI2025.
 - 2024.07: One paper (Merlin) is accepted by ECCV2024.
 - 2024.05: I'm awarded Excellent Doctoral Thesis Seedling Fund (优秀博士论文育苗基金).
-- 2024.04: I get financial assistance to attend ICLR. Thank you, ICLR!
 - 2024.01: One paper (TopoMLP) is accepted by ICLR2024.
 - 2023.10: I'm awarded National Scholarship!
-- 2023.07: One paper (OnlineRefer) is accepted by ICCV2023.
-- 2023.06: We rank the 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge. [Solution](https://arxiv.org/pdf/2306.09590.pdf) is released.
-- 2023.03: One paper (Refering Multi-Object Tracking) is accepted by CVPR2023.
-- 2023.03: My personal homepage is created! Welcome!
 
 
 <span class='anchor' id='-publications'></span>
@@ -63,10 +59,6 @@ Dongming Wu, Yanping Fu, Saike Huang, Yingfei Liu, Fan Jia, Nian Liu, Feng Dai, 
 </div>
 </div>
 
-- **DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**\\
-Tianyi Yan, Dongming Wu, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen \\
-|2024|[Paper](https://arxiv.org/abs/2411.11252)|
-
 
 - **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**\\
 Yifan Bai\*, Dongming Wu\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (*Equal Contributions) \\
@@ -78,6 +70,19 @@ Yani Zhang, Dongming Wu, Wencheng Han, Xingping Dong \\
 
 
 ## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/drivingsphere.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation** \\
+|**CVPR 2025**|[Paper](https://arxiv.org/abs/2411.11252)|[Code](https://yanty123.github.io/DrivingSphere/)|
+
+Tianyi Yan, Dongming Wu, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen
+
+- <strong style="color:green"> DrivingSphere is a novel geometry-aware closed-loop simulation framework that captures 2D visual and 3D geometric properties while seamlessly integrating with vision-based end-to-end driving agents.</strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/nuprompt.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
