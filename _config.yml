@@ -30,8 +30,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ejFCAq0AAAAJ&hl=zh-CN"
   email            : "wudongming97@gmail.com"
-  extra_email      : "wudongming@bit.edu.cn"
-  area             : "Computer Vision"
+  extra_email      : # "wudongming@bit.edu.cn"
+  area             : # "Computer Vision"
   researchgate     : #""
   location         : "Beijing"
   uri              :
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/wudongming97"
   google_plus      :
   keybase          :
   instagram        :
