@@ -18,22 +18,33 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-From 2019.09 to present, I am a PhD student in Department of Computer Science, Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en">Prof. Jianbing Shen</a>. 
+I will join in  Multimedia Lab (MMLab) at Chinese University of Hong Kong as a Postdoctoral Fellow, working with Prof. Xiangyu Yue.
 
-From 2022.06 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao">Xiangyu Zhang</a>. 
+In 2025.06, I received my PhD degree in Department of Computer Science, BIT, advised by <a href="https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en">Prof. Jianbing Shen</a>. 
 
-From 2024.09 to 2025.01, I am a visiting student at Mohamed bin Zayed University of Artificial Intelligence, supervised by <a href="https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/">Prof. Rao Muhammad Anwer</a> and <a href="https://sites.google.com/view/fahadkhans">Prof. Fahad Shahbaz Khan</a>. 
+From 2025.02 to 2025.06, I am a research intern at start-up DexMal, supervised by <a href="https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN">Yingfei Liu</a> and <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a>. 
 
-In 2021.05-2022.05, I was a research intern at Inception Institute of Artificial Intelligence, UAE, supervised by <a href="https://xingpingdong.github.io/">Xingping Dong</a> and <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao">Prof. Ling Shao</a>.
+From 2024.09 to 2025.01, I am a visiting student at MBZUAI, supervised by <a href="https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/">Prof. Rao Muhammad Anwer</a> and <a href="https://sites.google.com/view/fahadkhans">Prof. Fahad Shahbaz Khan</a>. 
 
-In 2019.06, I recevied my Bachelor's degree from the Class of Xu, Beijing Institute of Technology. 
+From 2022.06 to 2024.08, I am a research intern at Foundation model group in MEGVII, supervised by <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a> and <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao">Xiangyu Zhang</a>. 
 
-My current research interests are in the areas of (1) **Vision-language learning**, (2) **Multi-modal LLM** and (3) **Embodied Agent**. My ultimate goal is to build a human-like agent for perceiving real-life environments and performing decision-making.
+From 2021.05 to 2022.05, I was a research intern at Inception Institute of Artificial Intelligence, supervised by <a href="https://xingpingdong.github.io/">Xingping Dong</a> and <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao">Prof. Ling Shao</a>.
+
+In 2019.06, I recevied my Bachelor degree from the Class of Xu, Beijing Institute of Technology (BIT). 
+
+My current research interests lie in vision-language learning, multimodal large language models (LLMs), and embodied agents.
+(1) During my graduate studies, I focused on building intelligent perception models that understand visual and linguistic information.
+(2) More recently, I’ve been exploring decision-making systems capable of actively interacting with both humans and dynamic environments.
+Ultimately, my goal is to develop human-like agents that can perceive real-world environments and make autonomous decisions, moving us closer to achieving artificial general intelligence (AGI). Two articles that have deeply inspired my thinking are [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and [The Second Half](https://ysymyth.github.io/The-Second-Half/).
+
+ I am always open to collaboration and discussions about the latest advancements in the field. Feel free to reach out!
 
 
 <span class='anchor' id='-news'></span>
 
 # News
+- 2025.06: One paper (RAGNet) is accepted by ICCV2025.
+- 2025.06: I successfully defense my Ph.D. thesis. I'm awarded Outstanding Graduates of Beijing (北京市优秀毕业生).
 - 2025.02: One paper (DrivingSphere) is accepted by CVPR2025.
 - 2024.12: One paper (NuPrompt) is accepted by AAAI2025.
 - 2024.07: One paper (Merlin) is accepted by ECCV2024.
@@ -46,19 +57,10 @@ My current research interests are in the areas of (1) **Vision-language learning
 # Publications
 
 ## Preprint Papers:
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/ragnet.jpg' alt="sym" width="100%" height="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping** \\
-|**In Submission**|
-
-Dongming Wu, Yanping Fu, Saike Huang, Yingfei Liu, Fan Jia, Nian Liu, Feng Dai, Tiancai Wang, Rao Muhammad Anwer, Fahad Shahbaz Khan, Jianbing Shen
-
-- <strong style="color:green"> We present a large-scale reasoning-based affordance segmentation benchmark RAGNet and introduce a comprehensive affordance-based grasping framework AffordanceNet.</strong>
-</div>
-</div>
-
+- **Grounding Beyond Detection: Enhancing Contextual Understanding in Embodied 3D Grounding**\\
+Yani Zhang, Dongming Wu, Hao Shi, Yingfei Liu, Tiancai Wang, Haoqiang Fan, Xingping Dong \\
+[<strong style="color:red"> 1st place on EmbodiedScan Visual Grounding</strong>](https://huggingface.co/spaces/AGC2024/visual-grounding-2024) \\
+|2025|[Paper](https://arxiv.org/abs/2506.05199)|[Code](https://github.com/zyn213/DEGround)|
 
 - **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**\\
 Yifan Bai\*, Dongming Wu\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (*Equal Contributions) \\
@@ -70,6 +72,18 @@ Yani Zhang, Dongming Wu, Wencheng Han, Xingping Dong \\
 
 
 ## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ragnet.jpg' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping** \\
+|**ICCV 2025**|
+
+Dongming Wu, Yanping Fu, Saike Huang, Yingfei Liu, Fan Jia, Nian Liu, Feng Dai, Tiancai Wang, Rao Muhammad Anwer, Fahad Shahbaz Khan, Jianbing Shen
+
+- <strong style="color:green"> We present a large-scale reasoning-based affordance segmentation benchmark RAGNet and introduce a comprehensive affordance-based grasping framework AffordanceNet.</strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/drivingsphere.jpg' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -186,6 +200,8 @@ Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shua
 <span class='anchor' id='-honors'></span>
 # Honors
 
+* Outstanding Graduates of Beijing (北京市优秀毕业生).
+* Outstanding Graduates of BIT (北京理工大学优秀毕业生), Beijing Institute of Technology.
 * Excellent Doctoral Thesis Seedling Fund(优秀博士论文育苗基金), Beijing Institute of Technology.
 * National Scholarship, Ministry of Education China.
 * The 1st place at [OpenLane Topology](https://opendrivelab.com/AD23Challenge.html#openlane_topology) in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei.
@@ -195,7 +211,7 @@ Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shua
 # Service
 Invited Reviewer for conferences:
 * CVPR 2023,2024,2025
-* ICCV 2023
+* ICCV 2023,2025
 * ECCV 2024
 * ICLR 2025
 * AAAI 2025
