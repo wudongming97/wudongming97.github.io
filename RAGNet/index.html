@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta property="og:title" content="RAGNet"/>
+
+  <title>RAGNet</title>
+  <!-- <link rel="icon" type="image/x-icon" href="static/images/favicon.ico"> -->
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-2 publication-title">
+            RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping
+          </h1>
+          <div class="is-size-5 publication-authors">
+            <!-- Paper authors -->
+            <span class="author-block">
+              <a href="https://wudongming97.github.io" target="_blank">Dongming Wu</a><sup>1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Yanping Fu</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Saike Huang</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Yingfei Liu</a><sup>3*</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Fan Jia</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Nian Liu</a><sup>4</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Feng Dai</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Tiancai Wang</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Rao Muhammad Anwer</a><sup>4</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Fahad Shahbaz Khan</a><sup>4</sup>,
+            </span>
+            <span class="author-block">
+              <a href="" target="_blank">Jianbing Shen</a><sup>5†</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block" style="margin-right: 20px;">
+              <sup>1</sup> The Chinese University of Hong Kong
+            </span>
+            <span class="author-block" style="margin-right: 20px;">
+              <sup>2</sup> Institute of Computing Technology, Chinese Academy of Sciences
+            </span>
+            <span class="author-block" style="margin-right: 20px;">
+              <sup>3</sup> Dexmal
+            </span>
+            <span class="author-block" style="margin-right: 20px;">
+              <sup>4</sup> Mohamed bin Zayed University of Artificial Intelligence
+            </span>
+            <span class="author-block" style="margin-right: 20px;">
+              <sup>5</sup> SKL-IOTSC, CIS, University of Macau
+            </span>
+
+            <span class="eql-cntrb" style="margin-right: 20px;">
+              <small><br><sup>*</sup>Project Lead</small>
+            </span>
+            <span class="eql-cntrb">
+              <small><sup>†</sup>Corresponding Authors</small>
+            </span>
+          </div>
+
+
+              <div class="column has-text-centered">
+                <div class="publication-links">
+                  <!-- Arxiv PDF link -->
+                  <span class="link-block">
+                  <a href="https://arxiv.org/pdf/2507.23734" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+
+                <!-- Github link -->
+                <span class="link-block">
+                  <a href="https://github.com/wudongming97/AffordanceNet" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fab fa-github"></i>
+                  </span>
+                  <span>Github</span>
+                </a>
+              </span>
+
+
+              <!-- Dataset -->
+              <span class="link-block">
+                <a href="https://huggingface.co/Dongming97/AffordanceVLM" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon" style="vertical-align: middle; font-size: 20px;">&#129303;</span>
+                    <span style="vertical-align: middle;">Checkpoints</span>
+                </a>
+
+              </span>    
+                <span class="link-block">
+                    <a href="https://huggingface.co/datasets/Dongming97/RAGNet" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon" style="vertical-align: middle; font-size: 20px;">&#128202;</span>
+                        <span style="vertical-align: middle;">Dataset</span>
+                    </a>
+                </span>    
+                
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Overview</h2>
+        <div class="content has-text-justified">
+          General robotic grasping systems require accurate object affordance perception in diverse open-world scenarios following human instructions. However, current studies suffer from the problem of lacking reasoning-based large-scale affordance prediction data, leading to considerable concern about open-world effectiveness. To address this, we build a large-scale grasping-oriented affordance segmentation benchmark with human-like instructions, named RAGNet. It contains 273k images, 180 categories, and 26k reasoning instructions. The images cover diverse embodied data domains, such as wild, robot, ego-centric, and simulation data. They are carefully annotated with an affordance map, while the difficulty of language instructions is largely increased by removing their category name and only providing functional descriptions. Furthermore, we propose a comprehensive affordance-based grasping framework, named AffordanceNet, which consists of a VLM pretrained on our massive affordance data and a grasping network that conditions an affordance map to grasp the target. Extensive experiments on affordance segmentation benchmarks and real-robot manipulation tasks show that our model has a powerful open-world generalization ability.
+
+          <div class="columns is-centered has-text-centered">
+            <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+              <figure style="text-align: center;">
+                <img id="teaser" width="130%" src="static/images/motivation.png">
+                <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Fig 1: From large-scale reasoning-based affordance segmentation benchmark to general grasping.
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Reasoning-based Affordance Segmentation Benchmark</h2>
+        <div class="content has-text-justified">
+        We build large-scale affordance segmentation data from various image sources, including wild, robot, ego-centric, and simulated data, named RAGNet. It has 273k images, 180 categories, 26k distinct expressions.
+        We design a set of annotation tools to label the graspable regions of objects. 
+          
+          <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+            <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+              <figure style="text-align: center;">
+                <img id="teaser" width="100%" src="static/images/dataset.png" alt="Multimodal behavior figure" style="max-width: 100%;">
+                <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Table 1: Comparisons between previous affordance data and our collection.
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+          We create two types of reasoning-based instructions beyond the template-based instructions. One includes the name of the object and the other omits it. Take a mug as an example: “Can you find me a mug for tea?” versus “I need something to drink coffee”. This approach closely mirrors real-life human interactions.
+
+          <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+            <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+              <figure style="text-align: center;">
+                <img id="teaser" width="100%" src="static/images/dataset_reasoning.png" alt="Multimodal behavior figure" style="max-width: 55%;">
+                <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Fig 2: Easy (left) v.s. Hard (right) reasoning instruction.
+                The hard version has no category name itself.
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">AffordanceNet</h2>
+        <div class="content has-text-justified">
+           AffordanceNet has two key components: AffordanceVLM for predicting affordance segmentation mask and pose generation for transforming the mask into grasper position in 3D space. 
+          
+          <ul >
+            <li>
+              <strong>AffordanceVLM.</strong>
+              AffordanceVLM is based on the vision-language segmentation model LISA and incorporates two essential task-specific modifications to enhance affordance prediction: (1) developing a specialized system prompt, and (2) introducing a unique &lt;AFF&gt; token.
+            </li>
+            
+            <li style="margin-top: 0.8em;">
+              <strong>Pose generation.</strong>
+              The predicted 2D affordance mask along with depth map is projected into 3D space, formulating 3D object affordance. Various grasping models can be used to generate grasper position.
+            </li>
+          </ul>
+
+            <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+            <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+              <figure style="text-align: center;">
+                <img id="teaser" width="100%" src="static/images/model.png" alt="Multimodal behavior figure" style="max-width: 100%;">
+                <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Fig 3: Overview of our data annotation pipeline and manipulation model.
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Experiments</h2>
+        <div class="content has-text-justified">
+          <h2 class="title is-4">Evaluation on Visual Affordance</h2>
+            To minimize unnecessary source expenditure, we initially validate the quality of affordance segmentation prior to object grasping.
+
+            <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+              <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+                <figure style="text-align: center;">
+                  <img id="teaser" width="100%" src="static/images/exp_1.png" alt="Multimodal behavior figure" style="max-width: 100%;">
+                  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Table 2: Quantitative results on affordance segmentation.
+                </figcaption>
+                </figure>
+              </div>
+            </div>
+
+            <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+              <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+                <figure style="text-align: center;">
+                  <img id="teaser" width="100%" src="static/images/exp_2.png" alt="Multimodal behavior figure" style="max-width: 55%;">
+                  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Table 3: Quantitative results on reasoning-based affordance segmentation.
+                </figcaption>
+                </figure>
+              </div>
+            </div>
+
+          <h2 class="title is-4">Evaluation on Object Grasping</h2>
+
+          We deploy UR5 robot arm with a thirdperson RGB-D camera (Intel RealSense). We design 10 distinct grasping tasks, including grasping the can, pen, screwdriver, hammer, wok, mouse, circle, toy, spatula, scissors.
+Half of them require accurately localizing the affordance
+region, like the screwdriver handle. Each task is performed
+10 times, and we report the average success rate. <strong>Note that, we never provide any demonstration images or videos from this scene for our model training. </strong>
+
+            <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+              <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+                <figure style="text-align: center;">
+                  <img id="teaser" width="100%" src="static/images/exp_3.png" alt="Multimodal behavior figure" style="max-width: 100%;">
+                  <figcaption style="font-size: 0.9em; color: #555; margin-top: 8px;">
+                  Table 4: Average success rates on robotic grasping.
+                </figcaption>
+                </figure>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Visualizations</h2>
+        <div class="content has-text-justified">
+          
+            <div class="columns is-centered has-text-centered" style="margin-top: 1.5rem;">
+              <div class="column is-six-fifths" style="display: flex; align-items: flex-start; justify-content: center;">  
+                <figure style="text-align: center;">
+                  <img id="teaser" width="100%" src="static/images/4x4_grid.gif" alt="Multimodal behavior figure" style="max-width: 100%;">
+                </figure>
+              </div>
+            </div>
+    
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!--BibTex citation -->
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    If you find this work useful, please consider citing it:
+  </p>
+      <pre><code>
+  @article{wu2025ragnet,
+    title={RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping},
+    author={Wu, Dongming and Fu, Yanping and Huang, Saike and Liu, Yingfei and Jia, Fan and Liu, Nian and Dai, Feng and Wang, Tiancai and Anwer, Rao Muhammad and Khan, Fahad Shahbaz and Shen, Jianbing},
+    year={2025}
+  }
+    </code></pre>
+
+  </div>
+</section>
+<!--End BibTex citation -->
+
+</body>
+</html>
