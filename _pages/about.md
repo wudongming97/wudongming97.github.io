@@ -17,42 +17,238 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Postdoctoral Fellow at MMLab, the Chinese University of Hong Kong, and at CPII, working with Prof. Xiangyu Yue.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- In 2025.06, I received my PhD degree in Department of Computer Science, Beijing Institute of Technology, advised by [Prof. Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). 
 
+In 2019.06, I received my Bachelor degree from the Class of Xu at the same university. -->
+
+My current research interests lie in vision-language learning, multimodal large language models (MLLMs), and embodied agents. (1) During my graduate studies, I focused on building intelligent perception models that understand visual and linguistic information. (2) More recently, I've been exploring decision-making systems capable of actively interacting with both humans and dynamic environments. Ultimately, my goal is to develop human-like agents that can perceive real-world environments and make autonomous decisions, moving us closer to achieving artificial general intelligence (AGI). Two articles that have deeply inspired my thinking are [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and [The Second Half](https://ysymyth.github.io/The-Second-Half/).
+
+**I am always open to collaboration and discussions about the latest advancements in the field. Feel free to reach out!**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
+<ul>
+<li><em>2026.02</em>: &nbsp;🎉 🎉 One paper (GEGround) is accpeted by CVPR Findings 2026. It ranks first on EmbodiedScan Challenge.</li>
+<li><em>2026.01</em>: &nbsp;🎉 🎉 One paper (AutoFly) is accpeted by ICLR 2026.</li>
+<li><em>2025.09</em>: I join in CUHK MMLab and CPII as a Postdoctoral Fellow.</li>
+<li><em>2025.06</em>: One paper (RAGNet) is accepted by ICCV2025.</li>
+<li><em>2025.06</em>: I successfully defended my Ph.D. thesis. I'm awarded Outstanding Graduates of Beijing (北京市优秀毕业生).</li>
+<li><em>2025.02</em>: One paper (DrivingSphere) is accepted by CVPR2025.</li>
+<li><em>2024.12</em>: One paper (NuPrompt) is accepted by AAAI2025.</li>
+<li><em>2024.05</em>: I'm awarded Excellent Doctoral Thesis Seedling Fund (优秀博士论文育苗基金).</li>
+<li><em>2024.01</em>: One paper (TopoMLP) is accepted by ICLR2024.</li>
+</ul>
+</div>
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+**Conference & Preprint**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/deground.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding With a Homogeneous Framework](https://arxiv.org/abs/2506.05199)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yani Zhang\*, **Dongming Wu**\*, Yingfei Liu, Hao Shi, Tiancai Wang, Xingping Dong (\*Equal Contributions)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+\|[**Paper**](https://arxiv.org/abs/2506.05199)\|[**Code**](https://github.com/zyn213/DEGround)\|
+- DEGround ranks first on EmbodiedScan Challenge.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/autofly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[AutoFly: Vision-Language-Action Model for UAV Autonomous Navigation in the Wild](https://arxiv.org/abs/2602.09657)
+
+Xiaolou Sun, Wufei Si, Wenhui Ni, Yuntian Li, **Dongming Wu**, Fei Xie, Runwei Guan, He-Yang Xu, Henghui Ding, Yuan Wu, Yutao Yue, Yongming Huang, Hui Xiong
+
+\|[**Paper**](https://arxiv.org/abs/2602.09657)\|[**Project**](https://xiaolousun.github.io/AutoFly)\|
+- AutoFly is a Vision-Language-Action (VLA) model for autonomous UAV navigation in real-world environments, with a pseudo-depth encoder and progressive two-stage training.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/spatialvista.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](https://arxiv.org/abs/2510.09606)
+
+Peiwen Sun, Shiqiang Lang, **Dongming Wu**, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, Rui Liu, Yun-Hui Liu, Jianan Wang, Xiangyu Yue
+
+\|[**Paper**](https://arxiv.org/abs/2510.09606)\|
+- It is the first attempt to broaden the all-scale spatial intelligence of MLLMs to the best of our knowledge.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ragnet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping](https://arxiv.org/abs/2507.23734)
+
+**Dongming Wu**, Yanping Fu, Saike Huang, Yingfei Liu, Fan Jia, Nian Liu, Feng Dai, Tiancai Wang, Rao Muhammad Anwer, Fahad Shahbaz Khan, Jianbing Shen
+
+\|[**Paper**](https://arxiv.org/abs/2507.23734)\|[**Code**](https://github.com/wudongming97/AffordanceNet)\|
+- We present a large-scale reasoning-based affordance segmentation benchmark RAGNet and introduce a comprehensive affordance-based grasping framework AffordanceNet.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/drivingsphere.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation](https://arxiv.org/abs/2411.11252)
+
+Tianyi Yan, **Dongming Wu**, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen
+
+\|[**Paper**](https://arxiv.org/abs/2411.11252)\|[**Project**](https://yanty123.github.io/DrivingSphere/)\|
+- DrivingSphere is a novel geometry-aware closed-loop simulation framework that captures 2D visual and 3D geometric properties while seamlessly integrating with vision-based end-to-end driving agents.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3dllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?](https://arxiv.org/pdf/2405.18361)
+
+Yifan Bai\*, **Dongming Wu**\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (\*Equal Contributions)
+
+\|[**Paper**](https://arxiv.org/pdf/2405.18361)\|
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/nuprompt.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language prompt for autonomous driving](https://arxiv.org/pdf/2309.04379.pdf)
+
+**Dongming Wu**, Wencheng Han, Tiancai Wang, Yingfei Liu, Xiangyu Zhang, Jianbing Shen
+
+\|[**Paper**](https://arxiv.org/pdf/2309.04379.pdf)\|[**Code**](https://github.com/wudongming97/Prompt4Driving)\|
+- We propose a new large-scale language prompt set for driving scenes, named NuPrompt. As far as we know, it is the first dataset specializing in multiple 3D objects of interest from video domain.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rmotv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bootstrapping Referring Multi-Object Tracking](https://arxiv.org/pdf/2406.05039)
+
+Yani Zhang\*, **Dongming Wu**\*, Wencheng Han, Xingping Dong  (\*Equal Contributions)
+
+\|[**Paper**](https://arxiv.org/pdf/2406.05039)\|[**Code**](https://github.com/zyn213/TempRMOT)\|
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/merlin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Merlin: Empowering Multimodal LLMs with Foresight Minds](https://arxiv.org/abs/2312.00589)
+
+En Yu, Liang Zhao, Yana Wei, Jinrong Yang, **Dongming Wu**, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang, Wenbing Tao
+
+\|[**Paper**](https://arxiv.org/abs/2312.00589)\|[**Code**](https://github.com/Ahnsun/merlin)\|
+- Merlin is a groundbreaking model capable of generating natural language responses that are intricately linked with object trajectories of multiple images.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/topomlp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TopoMLP: A Simple yet Strong Pipeline for Driving Topology Reasoning](https://arxiv.org/pdf/2310.06753.pdf)
+
+**Dongming Wu**, Jiahao Chang, Fan Jia, Yingfei Liu, Tiancai Wang, Jianbing Shen
+
+\|[**Paper**](https://arxiv.org/pdf/2310.06753.pdf)\|[**Code**](https://github.com/wudongming97/TopoMLP)\|
+- TopoMLP is the 1st solution for 1st OpenLane Topology in Autonomous Driving Challenge. It suggests a first-detect-then-reason philosophy for better topology prediction.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/onlinerefer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356)
+
+**Dongming Wu**, Tiancai Wang, Yuang Zhang, Xiangyu Zhang, Jianbing Shen
+
+\|[**Paper**](https://arxiv.org/abs/2307.09356)\|[**Code**](https://github.com/wudongming97/OnlineRefer)\|
+- OnlineRefer is the first to challenge the widespread belief that only offline models can deal well with RVOS and makes online RVOS great again.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/rmot.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Referring Multi-Object Tracking](https://arxiv.org/abs/2303.03366)
+
+**Dongming Wu**, Wencheng Han, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianbing Shen
+
+\|[**Paper**](https://arxiv.org/abs/2303.03366)\|[**Code**](https://github.com/wudongming97/RMOT)\|
+- RMOT is a new referring understanding task that can detect and track an arbitrary number of objects following human instruction. We propose the first RMOT benchmark Refer-KITTI, and a baseline model TransRMOT.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/msla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)
+
+**Dongming Wu**, Xingping Dong, Ling Shao, Jianbing Shen
+
+\|[**Paper**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)\|
+</div>
+</div>
+
+**Journal**
+- **Person re-identification by context-aware part attention and multi-head collaborative learning** (TIFS). Dongming Wu, Mang Ye, Gaojie Lin, Xin Gao, Jianbing Shen. 2021. [Paper](https://repository.kaust.edu.sa/bitstream/handle/10754/668975/tifs21cpa-vrid-v5_Xin-comments%20deleted.pdf?sequence=4)
+- **Reducing estimation bias via triplet-average deep deterministic policy gradient** (TNNLS). Dongming Wu, Xingping Dong, Jianbing Shen, Steven CH Hoi. 2020. [Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6923&context=sis_research)
+
+**Technical Report**
+- **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**. Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang. 2023. [Paper](https://arxiv.org/pdf/2306.09590.pdf) \| [Code](https://github.com/wudongming97/TopoMLP)
+
+# 🎖 Honors
+- Excellent Doctoral Dissertation Beijing Institute of Technology (北京理工大学优秀博士论文)
+- Outstanding Graduates of Beijing (北京市优秀毕业生)
+- Outstanding Graduates of Beijing Institute of Technology (北京理工大学优秀毕业生)
+- Excellent Doctoral Dissertation Seedling Fund of Beijing Institute of Technology (北京理工大学优秀博士论文育苗基金)
+- National Scholarship (国家奖学金), Ministry of Education China
+- ChinaCentury Scholarship (华瑞世纪奖学金), Beijing Institute of Technology
+
+# 🏆 Challenge Awards
+- The 1st place at EmbodiedScan Challenge, Shanghai AI Lab
+- The 1st place at OpenLane Topology in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.06*, PhD, Department of Computer Science, Beijing Institute of Technology, advised by [Prof. Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en).
+- *2019.06*, Bachelor, Class of Xu, Beijing Institute of Technology.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- <img src="{{ site.baseurl }}/images/logo_dexmal.png" alt="Dexmal" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **Dexmal**, Research Intern. Mentor: [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN), [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN).
+- <img src="{{ site.baseurl }}/images/logo_mbzuai.png" alt="MBZUAI" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **MBZUAI**, Visiting Student. Mentor: [Prof. Rao Muhammad Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/), [Prof. Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans).
+- <img src="{{ site.baseurl }}/images/logo_megvii.jpeg" alt="MEGVII" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **MEGVII**, Research Intern. Mentor: [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN), [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao).
+- <img src="{{ site.baseurl }}/images/logo_IIAI.png" alt="IIAI" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **IIAI**, Research Intern. Mentor: [Xingping Dong](https://xingpingdong.github.io/), [Prof. Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao).
+
+# 🔧 Service
+**Conferences:** 
+<ul>
+  <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) </li>
+  <li>IEEE International Conference on Computer Vision (ICCV)</li>
+  <li>European Conference on Computer Vision (ECCV)</li>
+  <li>Conference on Neural Information Processing Systems (NeurIPS)</li>
+  <li>International Conference on Learning Representations (ICLR)</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI) </li>
+</ul>
+
+**Journals:** 
+<ul>
+  <li>International Journal of Computer Vision (IJCV)</li>
+  <li>IEEE Transactions on Image Processing (TIP)</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+  <li>IEEE Transactions on Multimedia (TMM)</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>IEEE Transactions on Intelligent Vehicles (TIV)</li>
+  <li>Pattern Recognition (PR)</li>
+  <li>Neurocomputing</li>
+</ul>
