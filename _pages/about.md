@@ -209,20 +209,26 @@ En Yu, Liang Zhao, Yana Wei, Jinrong Yang, **Dongming Wu**, Lingyu Kong, Haoran 
 - **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**. Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang. 2023. [Paper](https://arxiv.org/pdf/2306.09590.pdf) \| [Code](https://github.com/wudongming97/TopoMLP)
 
 # 🎖 Honors
-- Excellent Doctoral Dissertation Beijing Institute of Technology (北京理工大学优秀博士论文)
-- Outstanding Graduates of Beijing (北京市优秀毕业生)
-- Outstanding Graduates of Beijing Institute of Technology (北京理工大学优秀毕业生)
-- Excellent Doctoral Dissertation Seedling Fund of Beijing Institute of Technology (北京理工大学优秀博士论文育苗基金)
-- National Scholarship (国家奖学金), Ministry of Education China
-- ChinaCentury Scholarship (华瑞世纪奖学金), Beijing Institute of Technology
+<div style="display:flex; flex-direction:column; gap:10px; margin-top:10px;">
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">Excellent Doctoral Dissertation Beijing Institute of Technology (北京理工大学优秀博士论文)</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">Outstanding Graduates of Beijing (北京市优秀毕业生)</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">Outstanding Graduates of Beijing Institute of Technology (北京理工大学优秀毕业生)</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">Excellent Doctoral Dissertation Seedling Fund of Beijing Institute of Technology (北京理工大学优秀博士论文育苗基金)</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">National Scholarship (国家奖学金), Ministry of Education China</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">ChinaCentury Scholarship (华瑞世纪奖学金), Beijing Institute of Technology</div>
+</div>
 
 # 🏆 Challenge Awards
-- The 1st place at EmbodiedScan Challenge, Shanghai AI Lab
-- The 1st place at OpenLane Topology in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei
+<div style="display:flex; flex-direction:column; gap:10px; margin-top:10px;">
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at EmbodiedScan Challenge, Shanghai AI Lab</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at OpenLane Topology in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei</div>
+</div>
 
 # 📖 Educations
-- *2025.06*, PhD, Department of Computer Science, Beijing Institute of Technology, advised by [Prof. Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en).
-- *2019.06*, Bachelor, Class of Xu, Beijing Institute of Technology.
+<div style="display:flex; flex-direction:column; gap:10px; margin-top:10px;">
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;"><strong style="font-style:italic;">2025.06</strong> &nbsp;PhD, Department of Computer Science, Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en">Prof. Jianbing Shen</a>.</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;"><strong style="font-style:italic;">2019.06</strong> &nbsp;Bachelor, Class of Xu, Beijing Institute of Technology.</div>
+</div>
 
 # 💻 Internships
 <div style="display:flex; flex-direction:column; gap:12px; margin-top:10px;">
