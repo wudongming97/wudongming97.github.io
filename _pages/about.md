@@ -225,10 +225,24 @@ En Yu, Liang Zhao, Yana Wei, Jinrong Yang, **Dongming Wu**, Lingyu Kong, Haoran 
 - *2019.06*, Bachelor, Class of Xu, Beijing Institute of Technology.
 
 # 💻 Internships
-- <img src="{{ site.baseurl }}/images/logo_dexmal.png" alt="Dexmal" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **Dexmal**, Research Intern. Mentor: [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN), [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN).
-- <img src="{{ site.baseurl }}/images/logo_mbzuai.png" alt="MBZUAI" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **MBZUAI**, Visiting Student. Mentor: [Prof. Rao Muhammad Anwer](https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/), [Prof. Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans).
-- <img src="{{ site.baseurl }}/images/logo_megvii.jpeg" alt="MEGVII" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **MEGVII**, Research Intern. Mentor: [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN), [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao).
-- <img src="{{ site.baseurl }}/images/logo_IIAI.png" alt="IIAI" width="56" height="56" style="vertical-align:middle; margin-right:10px" /> **IIAI**, Research Intern. Mentor: [Xingping Dong](https://xingpingdong.github.io/), [Prof. Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao).
+<div style="display:flex; flex-direction:column; gap:12px; margin-top:10px;">
+  <div style="display:flex; align-items:center; gap:14px; padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">
+    <img src="images/logo_dexmal.png" alt="Dexmal" width="56" height="56" style="border-radius:8px; object-fit:contain; background:#fff; padding:2px;" />
+    <div><strong>Dexmal</strong>, Research Intern. Mentor: <a href="https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN">Yingfei Liu</a>, <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a>.</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:14px; padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">
+    <img src="images/logo_mbzuai.png" alt="MBZUAI" width="56" height="56" style="border-radius:8px; object-fit:contain; background:#fff; padding:2px;" />
+    <div><strong>MBZUAI</strong>, Visiting Student. Mentor: <a href="https://mbzuai.ac.ae/study/faculty/rao-muhammad-anwer/">Prof. Rao Muhammad Anwer</a>, <a href="https://sites.google.com/view/fahadkhans">Prof. Fahad Shahbaz Khan</a>.</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:14px; padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">
+    <img src="images/logo_megvii.jpeg" alt="MEGVII" width="56" height="56" style="border-radius:8px; object-fit:contain; background:#fff; padding:2px;" />
+    <div><strong>MEGVII</strong>, Research Intern. Mentor: <a href="https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN">Tiancai Wang</a>, <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN&oi=ao">Xiangyu Zhang</a>.</div>
+  </div>
+  <div style="display:flex; align-items:center; gap:14px; padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">
+    <img src="images/logo_IIAI.png" alt="IIAI" width="56" height="56" style="border-radius:8px; object-fit:contain; background:#fff; padding:2px;" />
+    <div><strong>IIAI</strong>, Research Intern. Mentor: <a href="https://xingpingdong.github.io/">Xingping Dong</a>, <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN&oi=ao">Prof. Ling Shao</a>.</div>
+  </div>
+</div>
 
 # 🔧 Service
 **Conferences:** 
