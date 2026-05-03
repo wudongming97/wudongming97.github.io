@@ -30,6 +30,7 @@ My current research interests lie in vision-language learning, multimodal large 
 # 🔥 News
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
 <ul>
+<li><em>2026.04</em>: &nbsp;🎉 🎉 One paper (SpaceVista) is accpeted by ICML 2026. Congrats to Peiwen!</li>
 <li><em>2026.02</em>: &nbsp;🎉 🎉 One paper (GEGround) is accpeted by CVPR Findings 2026. It ranks first on EmbodiedScan Challenge.</li>
 <li><em>2026.01</em>: &nbsp;🎉 🎉 One paper (AutoFly) is accpeted by ICLR 2026.</li>
 <li><em>2025.09</em>: I join in CUHK MMLab and CPII as a Postdoctoral Fellow.</li>
@@ -46,6 +47,20 @@ My current research interests lie in vision-language learning, multimodal large 
 
 
 **Conference & Preprint**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/spatialvista.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](https://arxiv.org/abs/2510.09606)
+
+Peiwen Sun, Shiqiang Lang, **Dongming Wu**, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, Rui Liu, Yun-Hui Liu, Jianan Wang, Xiangyu Yue
+
+\|[**Paper**](https://arxiv.org/abs/2510.09606)\|
+- It is the first attempt to broaden the all-scale spatial intelligence of MLLMs to the best of our knowledge.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/deground.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,17 +85,7 @@ Xiaolou Sun, Wufei Si, Wenhui Ni, Yuntian Li, **Dongming Wu**, Fei Xie, Runwei G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/spatialvista.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](https://arxiv.org/abs/2510.09606)
-
-Peiwen Sun, Shiqiang Lang, **Dongming Wu**, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, Rui Liu, Yun-Hui Liu, Jianan Wang, Xiangyu Yue
-
-\|[**Paper**](https://arxiv.org/abs/2510.09606)\|
-- It is the first attempt to broaden the all-scale spatial intelligence of MLLMs to the best of our knowledge.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ragnet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
