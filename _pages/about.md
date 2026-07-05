@@ -31,7 +31,7 @@ My current research interests lie in vision-language learning, multimodal large 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
 <ul>
 <li><em>2026.06</em>: &nbsp;🎉 🎉 One paper (X-Stream) is accepted by ECCV 2026. Congrats to Peiwen!</li>
-<li><em>2026.06</em>: &nbsp;🎉 🎉 Our method (VLA with hybrid memory) ranks the first place on RoboMME challenge @ CVPR 2026! Congrats to Bing-ao!</li>
+<li><em>2026.06</em>: &nbsp;🎉 🎉 Our method (VLA with hybrid memory) ranks the first place on [RoboMME challenge @ CVPR 2026](https://robomme.github.io/challenge.html)! Congrats to Bing-ao!</li>
 <li><em>2026.04</em>: &nbsp;🎉 🎉 One paper (SpaceVista) is accepted by ICML 2026. Congrats to Peiwen!</li>
 <li><em>2026.02</em>: &nbsp;🎉 🎉 One paper (GEGround) is accepted by CVPR Findings 2026. It ranks first on EmbodiedScan Challenge.</li>
 <li><em>2026.01</em>: &nbsp;🎉 🎉 One paper (AutoFly) is accepted by ICLR 2026.</li>
