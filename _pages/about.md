@@ -45,11 +45,63 @@ My current research interests lie in vision-language learning, multimodal large 
 </ul>
 </div>
 
+<span class='anchor' id='projects'></span>
+
+# 🛠️ Projects
+
+<div style="display:flex; flex-direction:column; gap:16px; margin-top:10px;">
+  <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; padding:16px 18px; border:1px solid #e8e8e8; border-radius:12px; background:#fafafa;">
+    <a href="https://github.com/wudongming97/FastEditWAM">
+      <img src="images/fasteditwam.png" alt="FastEditWAM" width="220" style="border-radius:10px; display:block;" />
+    </a>
+    <div style="flex:1; min-width:240px;">
+      <div style="font-size:1.15em; font-weight:bold; margin-bottom:6px;">
+        <a href="https://github.com/wudongming97/FastEditWAM">FastEditWAM</a>
+      </div>
+      <p style="margin:0 0 10px; color:#555; line-height:1.65; font-size:0.95em;">
+        A minimal-change extension of FastWAM for the Z-Image editing model. By predicting only one feature frame instead of multiple, it provides sufficient visual supervision while making robot policy training more efficient.
+      </p>
+      <a href="https://github.com/wudongming97/FastEditWAM" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none;">Code ↗</a>
+    </div>
+  </div>
+</div>
+
+# 🏆 Challenge Awards
+<div style="display:flex; flex-direction:column; gap:10px; margin-top:10px;">
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at <a href="https://robomme.github.io/challenge.html">RoboMME Challenge @ CVPR 2026</a>, University of Michigan and Figure AI</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at EmbodiedScan Challenge, Shanghai AI Lab</div>
+  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at OpenLane Topology in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei</div>
+</div>
+
 # 📝 Publications
 
 
 **Conference & Preprint**
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/benchmark-agent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Benchmark Everything Everywhere All at Once](https://arxiv.org/abs/2606.06462)
+
+Shiyun Xiong\*, **Dongming Wu**\*, Peiwen Sun, Yuang Ai, Bokang Yang, Wencheng Han, Xiao-Hui Li, Xiangyu Yue (\*Equal Contributions)
+
+\|[**Paper**](https://arxiv.org/abs/2606.06462)\|[**Code**](https://github.com/Shiyun-x/Benchmark-Agent)\|
+- We introduce Benchmark Agent, a fully autonomous agentic system that orchestrates the complete benchmark construction pipeline from natural-language evaluation goals.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/x-stream.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding](https://arxiv.org/pdf/2606.02482)
+
+Peiwen Sun\*, Xudong Lu\*, Huadai Liu\*, Yang Bo, **Dongming Wu**, Huankang Guan, Minghong Cai, Jinpeng Chen, Xintong Guo, Shuhan Li, Fang Liu, Rui Liu, Xiangyu Yue (\*Equal Contributions)
+
+\|[**Paper**](https://arxiv.org/pdf/2606.02482)\|[**Code**](https://github.com/PeiwenSun2000/X-Stream)\|
+- X-Stream is the first benchmark dedicated to multi-stream streaming understanding, evaluating MLLMs as multiplexers for online, cross-stream reasoning.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/spatialvista.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,7 +110,7 @@ My current research interests lie in vision-language learning, multimodal large 
 
 Peiwen Sun, Shiqiang Lang, **Dongming Wu**, Yi Ding, Kaituo Feng, Huadai Liu, Zhen Ye, Rui Liu, Yun-Hui Liu, Jianan Wang, Xiangyu Yue
 
-\|[**Paper**](https://arxiv.org/abs/2510.09606)\|
+\|[**Paper**](https://arxiv.org/abs/2510.09606)\|[**Code**](https://github.com/PeiwenSun2000/SpaceVista)\|
 - It is the first attempt to broaden the all-scale spatial intelligence of MLLMs to the best of our knowledge.
 </div>
 </div>
@@ -223,12 +275,6 @@ En Yu, Liang Zhao, Yana Wei, Jinrong Yang, **Dongming Wu**, Lingyu Kong, Haoran 
   <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">Excellent Doctoral Dissertation Seedling Fund of Beijing Institute of Technology (北京理工大学优秀博士论文育苗基金)</div>
   <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">National Scholarship (国家奖学金), Ministry of Education China</div>
   <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">ChinaCentury Scholarship (华瑞世纪奖学金), Beijing Institute of Technology</div>
-</div>
-
-# 🏆 Challenge Awards
-<div style="display:flex; flex-direction:column; gap:10px; margin-top:10px;">
-  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at EmbodiedScan Challenge, Shanghai AI Lab</div>
-  <div style="padding:10px 12px; border:1px solid #e8e8e8; border-radius:10px; background:#fafafa;">The 1st place at OpenLane Topology in CVPR2023 Autonomous Driving Challenge ($15,000), Shanghai AI Lab and Huawei</div>
 </div>
 
 # 📖 Educations

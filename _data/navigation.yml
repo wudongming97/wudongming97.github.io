@@ -6,14 +6,17 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Projects"
+    url: "/#projects"
+
+  - title: "Challenge Awards"
+    url: "/#-challenge-awards"
+
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors"
     url: "/#-honors"
-
-  - title: "Challenge Awards"
-    url: "/#-challenge-awards"
 
   - title: "Educations"
     url: "/#-educations"
