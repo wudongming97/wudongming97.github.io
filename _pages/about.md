@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at MMLab, the Chinese University of Hong Kong, and at CPII, working with Prof. Xiangyu Yue.
+I am currently a Postdoctoral Fellow at MMLab, the Chinese University of Hong Kong, and at CPII, working with <a href="https://xyue.io/">Prof. Xiangyu Yue</a>.
 
 <!-- In 2025.06, I received my PhD degree in Department of Computer Science, Beijing Institute of Technology, advised by [Prof. Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). 
 
