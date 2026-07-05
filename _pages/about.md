@@ -31,10 +31,10 @@ My current research interests lie in vision-language learning, multimodal large 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
 <ul>
 <li><em>2026.06</em>: &nbsp;🎉 🎉 One paper (X-Stream) is accepted by ECCV 2026. Congrats to Peiwen!</li>
-<li><em>2026.06</em>: &nbsp;🎉 🎉 Our method (VLA with hybrid memory) ranks the first place on [RoboMME challenge @ CVPR 2026](https://robomme.github.io/challenge.html)! Congrats to Bing-ao!</li>
+<li><em>2026.06</em>: &nbsp;🎉 🎉 Our method (VLA with hybrid memory) ranks first on the <a href="https://robomme.github.io/challenge.html">RoboMME challenge @ CVPR 2026</a>! Congrats to Bing-ao!</li>
 <li><em>2026.04</em>: &nbsp;🎉 🎉 One paper (SpaceVista) is accepted by ICML 2026. Congrats to Peiwen!</li>
 <li><em>2026.02</em>: &nbsp;🎉 🎉 One paper (GEGround) is accepted by CVPR Findings 2026. It ranks first on EmbodiedScan Challenge.</li>
-<li><em>2026.01</em>: &nbsp;🎉 🎉 One paper (AutoFly) is accepted by ICLR 2026.</li>
+<li><em>2026.01</em>: One paper (AutoFly) is accepted by ICLR 2026.</li>
 <li><em>2025.09</em>: I join in CUHK MMLab and CPII as a Postdoctoral Fellow.</li>
 <li><em>2025.06</em>: One paper (RAGNet) is accepted by ICCV2025.</li>
 <li><em>2025.06</em>: I successfully defended my Ph.D. thesis. I'm awarded Outstanding Graduates of Beijing (北京市优秀毕业生).</li>
