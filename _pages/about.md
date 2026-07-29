@@ -30,10 +30,12 @@ My current research interests lie in vision-language learning, multimodal large 
 # 🔥 News
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
 <ul>
+<li><em>2026.07</em>: &nbsp;🛫 🛫 Our embodied foundation model <a href="https://tau0-vla.github.io/">τ0-VLA</a> has been released! Check out our long-horizon demos! Feel free to try it!</li>
+<li><em>2026.07</em>: &nbsp;🎉 🎉 One paper (TopoMLP++) is accepted by T-PAMI. </li>
 <li><em>2026.06</em>: &nbsp;🎉 🎉 One paper (X-Stream) is accepted by ECCV 2026. Congrats to Peiwen!</li>
 <li><em>2026.06</em>: &nbsp;🎉 🎉 Our method (VLA with hybrid memory) ranks first on the <a href="https://robomme.github.io/challenge.html">RoboMME challenge @ CVPR 2026</a>! Congrats to Bing-ao!</li>
 <li><em>2026.04</em>: &nbsp;🎉 🎉 One paper (SpaceVista) is accepted by ICML 2026. Congrats to Peiwen!</li>
-<li><em>2026.02</em>: &nbsp;🎉 🎉 One paper (GEGround) is accepted by CVPR Findings 2026. It ranks first on EmbodiedScan Challenge.</li>
+<li><em>2026.02</em>: One paper (GEGround) is accepted by CVPR Findings 2026. It ranks first on EmbodiedScan Challenge.</li>
 <li><em>2026.01</em>: One paper (AutoFly) is accepted by ICLR 2026.</li>
 <li><em>2025.09</em>: I join in CUHK MMLab and CPII as a Postdoctoral Fellow.</li>
 <li><em>2025.06</em>: One paper (RAGNet) is accepted by ICCV2025.</li>
@@ -51,8 +53,23 @@ My current research interests lie in vision-language learning, multimodal large 
 
 <div style="display:flex; flex-direction:column; gap:16px; margin-top:10px;">
   <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; padding:16px 18px; border:1px solid #e8e8e8; border-radius:12px; background:#fafafa;">
+    <a href="https://tau0-vla.github.io/">
+      <img src="images/tau0-vla.png" alt="τ0-VLA" width="320" style="width:320px; max-width:100%; border-radius:10px; display:block;" />
+    </a>
+    <div style="flex:1; min-width:240px;">
+      <div style="font-size:1.15em; font-weight:bold; margin-bottom:6px;">
+        <a href="https://tau0-vla.github.io/">τ0-VLA</a>
+      </div>
+      <p style="margin:0 0 10px; color:#555; line-height:1.65; font-size:0.95em;">
+        A hierarchical robot foundation model with world-model-guided test-time computation for long-horizon tasks. It proposes subtasks, predicts visual outcomes, and compares branches before commitment.
+      </p>
+      <a href="https://github.com/sii-research/tau-0-vla" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none; margin-right:8px;">Code ↗</a>
+      <a href="https://tau0-vla.github.io/" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none;">Project ↗</a>
+    </div>
+  </div>
+  <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; padding:16px 18px; border:1px solid #e8e8e8; border-radius:12px; background:#fafafa;">
     <a href="https://github.com/wudongming97/FastEditWAM">
-      <img src="images/fasteditwam.png" alt="FastEditWAM" width="220" style="border-radius:10px; display:block;" />
+      <img src="images/fasteditwam.png" alt="FastEditWAM" width="320" style="width:320px; max-width:100%; border-radius:10px; display:block;" />
     </a>
     <div style="flex:1; min-width:240px;">
       <div style="font-size:1.15em; font-weight:bold; margin-bottom:6px;">
