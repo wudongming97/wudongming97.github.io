@@ -64,7 +64,7 @@ My current research interests lie in vision-language learning, multimodal large 
         A hierarchical robot foundation model with world-model-guided test-time computation for long-horizon tasks. It proposes subtasks, predicts visual outcomes, and compares branches before commitment.
       </p>
       <a href="https://github.com/sii-research/tau-0-vla" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none; margin-right:8px;">Code ↗</a>
-      <a href="https://tau0-vla.github.io/" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none;">Project ↗</a>
+      <a href="https://tau0-vla.github.io/" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none;">Website ↗</a>
     </div>
   </div>
   <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; padding:16px 18px; border:1px solid #e8e8e8; border-radius:12px; background:#fafafa;">
@@ -151,7 +151,7 @@ Yani Zhang\*, **Dongming Wu**\*, Yingfei Liu, Hao Shi, Tiancai Wang, Xingping Do
 
 Xiaolou Sun, Wufei Si, Wenhui Ni, Yuntian Li, **Dongming Wu**, Fei Xie, Runwei Guan, He-Yang Xu, Henghui Ding, Yuan Wu, Yutao Yue, Yongming Huang, Hui Xiong
 
-\|[**Paper**](https://arxiv.org/abs/2602.09657)\|[**Project**](https://xiaolousun.github.io/AutoFly)\|
+\|[**Paper**](https://arxiv.org/abs/2602.09657)\|[**Website**](https://xiaolousun.github.io/AutoFly)\|
 - AutoFly is a Vision-Language-Action (VLA) model for autonomous UAV navigation in real-world environments, with a pseudo-depth encoder and progressive two-stage training.
 </div>
 </div>
@@ -177,7 +177,7 @@ Xiaolou Sun, Wufei Si, Wenhui Ni, Yuntian Li, **Dongming Wu**, Fei Xie, Runwei G
 
 Tianyi Yan, **Dongming Wu**, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen
 
-\|[**Paper**](https://arxiv.org/abs/2411.11252)\|[**Project**](https://yanty123.github.io/DrivingSphere/)\|
+\|[**Paper**](https://arxiv.org/abs/2411.11252)\|[**Website**](https://yanty123.github.io/DrivingSphere/)\|
 - DrivingSphere is a novel geometry-aware closed-loop simulation framework that captures 2D visual and 3D geometric properties while seamlessly integrating with vision-based end-to-end driving agents.
 </div>
 </div>
