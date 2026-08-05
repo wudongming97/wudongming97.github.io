@@ -182,17 +182,6 @@ Tianyi Yan, **Dongming Wu**, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3dllm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?](https://arxiv.org/pdf/2405.18361)
-
-Yifan Bai\*, **Dongming Wu**\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (\*Equal Contributions)
-
-\|[**Paper**](https://arxiv.org/pdf/2405.18361)\|
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/nuprompt.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -282,6 +271,7 @@ En Yu, Liang Zhao, Yana Wei, Jinrong Yang, **Dongming Wu**, Lingyu Kong, Haoran 
 - **Reducing estimation bias via triplet-average deep deterministic policy gradient** (TNNLS). Dongming Wu, Xingping Dong, Jianbing Shen, Steven CH Hoi. 2020. [Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6923&context=sis_research)
 
 **Technical Report**
+- **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?** Yifan Bai\*, Dongming Wu\*, Yingfei Liu, Fan Jia, Weixin Mao, Ziheng Zhang, Yucheng Zhao, Jianbing Shen, Xing Wei, Tiancai Wang, Xiangyu Zhang (\*Equal Contributions). 2024. [Paper](https://arxiv.org/pdf/2405.18361)
 - **The 1st-place Solution for CVPR 2023 OpenLane Topology in Autonomous Driving Challenge**. Dongming Wu, Fan Jia, Jiahao Chang, Zhuoling Li, Jianjian Sun, Chunrui Han, Shuailin Li, Yingfei Liu, Zheng Ge, Tiancai Wang. 2023. [Paper](https://arxiv.org/pdf/2306.09590.pdf) \| [Code](https://github.com/wudongming97/TopoMLP)
 
 # 🎖 Honors
