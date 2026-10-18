@@ -31,7 +31,6 @@ My current research interests lie in vision-language learning, multimodal large 
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
 <ul>
 <li><em>2026.10</em>: &nbsp;🛫 🛫 We release the first <a href="https://arxiv.org/abs/2610.20442">agentic robotics survey</a> to the community. Contributions are welcome!</li>
-<li><em>2026.10</em>: &nbsp;🎉 🎉 One paper (RMOTv2) is accepted by T-PAMI. Congrats to Yani!</li>
 <li><em>2026.07</em>: &nbsp;🛫 🛫 Our embodied foundation model <a href="https://tau0-vla.github.io/">τ0-VLA</a> has been released! Check out our long-horizon demos! Feel free to try it!</li>
 <li><em>2026.07</em>: &nbsp;🎉 🎉 One paper (TopoMLP++) is accepted by T-PAMI. </li>
 <li><em>2026.06</em>: &nbsp;🎉 🎉 One paper (X-Stream) is accepted by ECCV 2026. Congrats to Peiwen!</li>
