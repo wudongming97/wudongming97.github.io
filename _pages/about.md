@@ -30,6 +30,8 @@ My current research interests lie in vision-language learning, multimodal large 
 # 🔥 News
 <div style="height: 200px; overflow-y: auto; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; background: #fdfdfd;">
 <ul>
+<li><em>2026.10</em>: &nbsp;🛫 🛫 We release the first <a href="https://arxiv.org/abs/2610.20442">agentic robotics survey</a> to the community. Contributions are welcome!</li>
+<li><em>2026.10</em>: &nbsp;🎉 🎉 One paper (RMOTv2) is accepted by T-PAMI. Congrats to Yani!</li>
 <li><em>2026.07</em>: &nbsp;🛫 🛫 Our embodied foundation model <a href="https://tau0-vla.github.io/">τ0-VLA</a> has been released! Check out our long-horizon demos! Feel free to try it!</li>
 <li><em>2026.07</em>: &nbsp;🎉 🎉 One paper (TopoMLP++) is accepted by T-PAMI. </li>
 <li><em>2026.06</em>: &nbsp;🎉 🎉 One paper (X-Stream) is accepted by ECCV 2026. Congrats to Peiwen!</li>
@@ -93,8 +95,31 @@ My current research interests lie in vision-language learning, multimodal large 
 # 📝 Publications
 
 
-**Conference & Preprint**
+**Recent Work**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2026</div><img src='images/rmotv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Referring Multi-Object Tracking with Diverse Dynamic Expressions](https://arxiv.org/pdf/2406.05039)
+
+Yani Zhang\*, **Dongming Wu**\*, Wencheng Han, Xingping Dong, Shengcai Liao, Bo Du (\*Equal Contributions)
+
+\|[**Paper**](https://arxiv.org/pdf/2406.05039)\|[**Code**](https://github.com/zyn213/TempRMOT)\|
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2026</div><img src='images/topomlp-plus-plus.png' alt="TopoMLP++" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TopoMLP++: Toward Strong and Scalable Lane Topology Reasoning in Autonomous Driving](https://doi.org/10.1109/TPAMI.2026.3721163)
+
+**Dongming Wu**, Wencheng Han, Cheng-Zhong Xu, Jianbing Shen
+
+\|[**Paper**](https://doi.org/10.1109/TPAMI.2026.3721163)\|[**Code**](https://github.com/wudongming97/TopoMLP)\|
+- TopoMLP++ combines a strong lane topology reasoning framework with an agent-based data engine to reduce annotation costs and improve data scalability.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/benchmark-agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -194,16 +219,7 @@ Tianyi Yan, **Dongming Wu**, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/rmotv2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Bootstrapping Referring Multi-Object Tracking](https://arxiv.org/pdf/2406.05039)
-
-Yani Zhang\*, **Dongming Wu**\*, Wencheng Han, Xingping Dong  (\*Equal Contributions)
-
-\|[**Paper**](https://arxiv.org/pdf/2406.05039)\|[**Code**](https://github.com/zyn213/TempRMOT)\|
-</div>
-</div>
 
 
 
@@ -266,7 +282,7 @@ En Yu, Liang Zhao, Yana Wei, Jinrong Yang, **Dongming Wu**, Lingyu Kong, Haoran 
 </div>
 </div>
 
-**Journal**
+**Earlier Work**
 - **Person re-identification by context-aware part attention and multi-head collaborative learning** (TIFS). Dongming Wu, Mang Ye, Gaojie Lin, Xin Gao, Jianbing Shen. 2021. [Paper](https://repository.kaust.edu.sa/bitstream/handle/10754/668975/tifs21cpa-vrid-v5_Xin-comments%20deleted.pdf?sequence=4)
 - **Reducing estimation bias via triplet-average deep deterministic policy gradient** (TNNLS). Dongming Wu, Xingping Dong, Jianbing Shen, Steven CH Hoi. 2020. [Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6923&context=sis_research)
 
