@@ -54,6 +54,21 @@ My current research interests lie in vision-language learning, multimodal large 
 
 <div style="display:flex; flex-direction:column; gap:16px; margin-top:10px;">
   <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; padding:16px 18px; border:1px solid #e8e8e8; border-radius:12px; background:#fafafa;">
+    <a href="https://arxiv.org/abs/2610.20442">
+      <img src="images/agentic-robots.png" alt="Agentic robots: Model, Data, Environment, and Harness" width="320" style="width:320px; max-width:100%; border-radius:10px; display:block;" />
+    </a>
+    <div style="flex:1; min-width:240px;">
+      <div style="font-size:1.15em; font-weight:bold; margin-bottom:6px;">
+        <a href="https://arxiv.org/abs/2610.20442">Towards Agentic Robots: Model, Data, Environment, and Harness</a>
+      </div>
+      <p style="margin:0 0 10px; color:#555; line-height:1.65; font-size:0.95em;">
+        A survey and curated collection of agentic robotics research, organized into seventeen categories across Model, Data, Environment, and Harness. Contributions are welcome!
+      </p>
+      <a href="https://arxiv.org/abs/2610.20442" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none; margin-right:8px;">Paper ↗</a>
+      <a href="https://github.com/chonghanqin/Awesome-Agentic-Robots" style="display:inline-block; padding:5px 12px; border:1px solid #ddd; border-radius:6px; background:#fff; font-size:0.9em; text-decoration:none;">GitHub ↗</a>
+    </div>
+  </div>
+  <div style="display:flex; flex-wrap:wrap; align-items:center; gap:20px; padding:16px 18px; border:1px solid #e8e8e8; border-radius:12px; background:#fafafa;">
     <a href="https://tau0-vla.github.io/">
       <img src="images/tau0-vla.png" alt="τ0-VLA" width="320" style="width:320px; max-width:100%; border-radius:10px; display:block;" />
     </a>
